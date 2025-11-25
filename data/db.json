@@ -1,0 +1,288 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "Basics To Advanced In React",
+      "overview": "Starting with fundamentals and progressing to advanced concepts. Build dynamic, efficient web applications using modern React tools and best practices.",
+      "long_description": "This comprehensive React course guides you step-by-step through the core concepts of React, including components, state management, hooks, routing, and context. You’ll gain hands-on experience building real-world projects that showcase how to create interactive and scalable user interfaces. By the end of the course, you’ll be confident in applying both basic and advanced React techniques to develop modern web apps efficiently and effectively.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10001.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": 10002,
+      "name": "Django Framework for Beginners",
+      "overview": "Learn Django from scratch, building dynamic web applications with Python. Understand models, views, templates, and practical project-based examples.",
+      "long_description": "This beginner-friendly Django course takes you step-by-step through the fundamentals of the Django framework. Learn to create models, manage databases, handle views and templates, and implement user authentication. Gain hands-on experience building real-world web applications, and develop the skills to create secure, scalable, and dynamic websites using Python and Django best practices.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10002.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": 10003,
+      "name": "The Future of Design Systems",
+      "overview": "Explore how design systems evolve to streamline UI development, improve consistency, and empower scalable, user-centered digital experiences.",
+      "long_description": "This insightful guide examines the future of design systems and their role in modern product development. Learn how they enable consistency across teams, streamline UI and UX workflows, and adapt to evolving technologies. Gain practical strategies for creating scalable, reusable components while maintaining flexibility, efficiency, and user-centered design in complex digital ecosystems.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10003.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10004,
+      "name": "The Complete Guide to Backend Development",
+      "overview": "Master backend development with practical skills in server-side programming, databases, APIs, and building robust web applications.",
+      "long_description": "This comprehensive guide covers everything you need to become a proficient backend developer. Learn server-side programming, database design, RESTful API creation, authentication, and deployment best practices. Build real-world projects to understand scalable architectures, optimize performance, and ensure security. By the end, you’ll be ready to create fully functional, efficient, and maintainable backend systems.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10005,
+      "name": "Build a Blockchain from Scratch in Go",
+      "overview": "Learn to build a blockchain from scratch using Go. Understand blocks, hashing, mining, and peer-to-peer networks with hands-on projects.",
+      "long_description": "This hands-on guide teaches you how to create a fully functional blockchain using the Go programming language. Explore core concepts like blocks, hashes, proof-of-work, mining, and peer-to-peer networking. Build practical projects to understand transaction validation, consensus mechanisms, and decentralized ledger structures. By the end, you’ll have the skills to implement and experiment with blockchain systems independently.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10005.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10006,
+      "name": "Frontend Fastlane Plan With Projects",
+      "overview": "Accelerate your frontend skills with hands-on projects. Learn HTML, CSS, JavaScript, and frameworks to build real-world web applications.",
+      "long_description": "The Frontend Fastlane Plan guides you through essential frontend technologies with a project-based approach. Master HTML, CSS, JavaScript, and popular frameworks while building interactive and responsive web applications. Gain practical experience with real-world projects, understand best practices, optimize performance, and develop the skills to create professional, user-friendly websites efficiently and confidently.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10006.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 10,
+      "best_seller": false
+    },
+    {
+      "id": 10007,
+      "name": "Master the Code Review",
+      "overview": "Learn effective code review techniques, best practices, and strategies to improve code quality, collaboration, and team productivity",
+      "long_description": "Master the Code Review teaches you how to conduct thorough, constructive, and efficient code reviews. Understand best practices for identifying bugs, improving readability, and ensuring maintainable code. Learn strategies for providing actionable feedback, fostering team collaboration, and streamlining the development process. Gain practical tips to enhance code quality and accelerate project success.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10007.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": 10008,
+      "name": "JavaScript Basics To Advance With Shubham",
+      "overview": "Learn JavaScript from fundamentals to advanced concepts with Shubham. Build dynamic web applications and master modern JS techniques.",
+      "long_description": "This comprehensive JavaScript course with Shubham takes you from the basics to advanced concepts. Learn variables, functions, DOM manipulation, ES6+ features, asynchronous programming, and modern frameworks. Gain hands-on experience by building real-world projects that enhance your understanding. By the end, you’ll be confident in developing interactive, efficient, and scalable web applications using JavaScript.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10008.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": 10009,
+      "name": "Python Deep Dive With Projects",
+      "overview": "Explore Python deeply with hands-on projects. Master advanced concepts, data structures, OOP, and real-world application development.",
+      "long_description": "Python Deep Dive With Projects is designed to take you beyond the basics and explore advanced Python programming. Learn object-oriented programming, data structures, file handling, modules, and libraries while working on practical projects. Gain real-world experience building applications, automating tasks, and solving complex problems, giving you the skills to confidently tackle Python development challenges.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10009.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10010,
+      "name": "Mastering Software Technique",
+      "overview": "Learn essential software techniques, best practices, and methodologies to design, develop, and maintain high-quality, efficient applications.",
+      "long_description": "Mastering Software Technique provides a comprehensive guide to essential software development practices. Explore design patterns, coding standards, testing strategies, and version control. Gain hands-on experience applying best practices to real-world projects, improving code quality, maintainability, and efficiency. By the end, you’ll be equipped with the skills and techniques to excel in professional software development.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10010.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10011,
+      "name": "Web Development Foundation",
+      "overview": "Build a strong foundation in web development. Learn HTML, CSS, JavaScript, and essential tools to create interactive and responsive websites.",
+      "long_description": "Web Development Foundation is a beginner-friendly course designed to teach the core principles of web development. Learn to create and style web pages with HTML and CSS, add interactivity with JavaScript, and understand essential development tools and workflows. Gain hands-on experience through projects that prepare you to build responsive, user-friendly, and professional websites.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10011.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": 10012,
+      "name": "Mastering Git and GitHub - A Practical Guide",
+      "overview": "Learn Git and GitHub from basics to advanced. Manage code, collaborate efficiently, and streamline development with practical, hands-on techniques.",
+      "long_description": "Mastering Git and GitHub is a practical guide for developers to effectively manage and collaborate on projects. Learn version control, branching, merging, pull requests, and resolving conflicts. Gain hands-on experience with real-world workflows and best practices. By the end, you’ll confidently track changes, collaborate with teams, and maintain clean, organized, and efficient code repositories.",
+      "price": 9,
+      "poster": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10012.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10013,
+      "name": "Everything About React v16",
+      "overview": "Explore React v16 features and updates. Learn components, state, props, lifecycle methods, and build modern, interactive web applications.",
+      "long_description": "Everything About React v16 is a complete guide to mastering this version of the popular JavaScript library. Learn about new features like error boundaries, fragments, portals, and improved lifecycle methods. Gain hands-on experience building interactive, scalable web applications while understanding core concepts such as components, state management, props, and hooks. By the end, you’ll be confident developing modern React apps.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10013.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10014,
+      "name": "Diving Deep With Python 2.7",
+      "overview": "Explore Python 2.7 in depth. Learn advanced programming concepts, data handling, and real-world projects to enhance coding expertise.",
+      "long_description": "Diving Deep With Python 2.7 takes you beyond the basics and explores advanced programming techniques using Python 2.7. Learn about data structures, functions, file handling, modules, and object-oriented programming while working on practical projects. Gain hands-on experience solving real-world problems, enhancing code efficiency, and mastering Python 2.7 features to become a confident and skilled developer.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10014.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10015,
+      "name": "Kickstart Your UI Design Career",
+      "overview": "Start your UI design journey. Learn design principles, tools, and workflows to create engaging, user-friendly interfaces from scratch.",
+      "long_description": "Kickstart Your UI Design Career is a comprehensive guide for aspiring designers. Learn core principles of user interface design, color theory, typography, and layout. Gain hands-on experience with popular design tools while building real-world projects. Understand best practices for creating intuitive, visually appealing, and user-centered interfaces that prepare you for a successful career in UI design.",
+      "price": 9,
+      "poster": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10015.avif",
+      "rating": 2,
+      "in_stock": false,
+      "size": 1,
+      "best_seller": false
+    }
+  ],
+  "featured_products": [
+    {
+      "id": 10004,
+      "name": "The Complete Guide to Backend Development",
+      "overview": "Master backend development with practical skills in server-side programming, databases, APIs, and building robust web applications.",
+      "long_description": "This comprehensive guide covers everything you need to become a proficient backend developer. Learn server-side programming, database design, RESTful API creation, authentication, and deployment best practices. Build real-world projects to understand scalable architectures, optimize performance, and ensure security. By the end, you’ll be ready to create fully functional, efficient, and maintainable backend systems.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10006,
+      "name": "Frontend Fastlane Plan With Projects",
+      "overview": "Accelerate your frontend skills with hands-on projects. Learn HTML, CSS, JavaScript, and frameworks to build real-world web applications.",
+      "long_description": "The Frontend Fastlane Plan guides you through essential frontend technologies with a project-based approach. Master HTML, CSS, JavaScript, and popular frameworks while building interactive and responsive web applications. Gain practical experience with real-world projects, understand best practices, optimize performance, and develop the skills to create professional, user-friendly websites efficiently and confidently.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10006.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 10,
+      "best_seller": false
+    },
+    {
+      "id": 10008,
+      "name": "JavaScript Basics To Advance With Shubham",
+      "overview": "Learn JavaScript from fundamentals to advanced concepts with Shubham. Build dynamic web applications and master modern JS techniques.",
+      "long_description": "This comprehensive JavaScript course with Shubham takes you from the basics to advanced concepts. Learn variables, functions, DOM manipulation, ES6+ features, asynchronous programming, and modern frameworks. Gain hands-on experience by building real-world projects that enhance your understanding. By the end, you’ll be confident in developing interactive, efficient, and scalable web applications using JavaScript.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10008.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    }
+  ],
+  "orders": [
+    {
+      "cartList": [
+        {
+          "id": 10001,
+          "name": "Basics To Advanced In React",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 29,
+          "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10001.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 5,
+          "best_seller": true
+        },
+        {
+          "id": 10007,
+          "name": "Master the Code Review",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 19,
+          "poster": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10007.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 2,
+          "best_seller": false
+        }
+      ],
+      "amount_paid": 48,
+      "quantity": 2,
+      "user": {
+        "name": "Tarannum",
+        "email": "tarannum@gmail.com",
+        "id": 1
+      },
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "tarannum@gmail.com",
+      "password": "$2a$10$dEgr9gOrruGJ3JqWy6WuyuJ5w3ObGPYJwX9.F0yVxIulk9u6Jim/W",
+      "name": "Tarannum",
+      "id": 1
+    }
+  ]
+}
